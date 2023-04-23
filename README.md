@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate software engineer and technology enthusiast 🖥️ with a knack for building innovative hardware and software solutions. 📚 Always up-to-date with the latest industry trends and constantly seeking new challenges to learn and grow. 💻 Strong coding and hardware integration skills, combined with unwavering dedication to creativity and attention to detail. 🌟 Excellent team player with a positive attitude, fostering a collaborative work environment. A trailblazer in the world of technology, constantly pushing boundaries and leaving a lasting impact. 🔥
+Passionate software engineer and technology enthusiast 🖥️ with a knack for building innovative hardware and software solutions. 📚 Always up-to-date with the latest industry trends and constantly seeking new challenges to learn and grow. 💻 Strong coding and hardware integration skills, combined with unwavering dedication to creativity and attention to detail. 🌟 Excellent team player with a positive attitude, fostering a collaborative work environment. A trailblazer in the world of technology, constantly pushing boundaries and leaving a lasting impact. 🔥
 
 
 ## 🌐 Socials:
