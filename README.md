@@ -25,10 +25,9 @@ Passionate software engineer and technology enthusiast 🖥️ with a knack for 
 [![](https://visitcount.itsvg.in/api?id=sixbeeshades&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- -->
+
  
- 
- 
+ ![Image Description](https://github.com/sixbeeshades/sixbeeshades/blob/main/Snapdrop_07-Nov-2022%2011_02_40%20pm_.jpg)
 
 # 💫 About Me:
 Passionate software engineer and technology enthusiast 🖥️ with a knack for building innovative hardware and software solutions. 📚 Always up-to-date with the latest industry trends and constantly seeking new challenges to learn and grow. 💻 Strong coding and hardware integration skills, combined with unwavering dedication to creativity and attention to detail. 🌟 Excellent team player with a positive attitude, fostering a collaborative work environment. A trailblazer in the world of technology, constantly pushing boundaries and leaving a lasting impact. 🔥<br><br>🔭 NOEX-FRAMEWORK && NOEX-CLI<br>⚡ Fun fact : 🎮 When I'm not busy building cutting-edge hardware and software solutions, you can often find me indulging in my love for video games! From classic retro games to the latest multiplayer online games, I'm always up for a gaming session to unwind and let my creativity flow. 🕹️👾
