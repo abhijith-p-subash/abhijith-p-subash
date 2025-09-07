@@ -2,7 +2,7 @@
 
 **Software Engineer • Tech Innovator • Entrepreneur**
 
-I’m Abhijith—a seasoned software engineer blending innovation with strategic thinking. My passion lies in crafting developer-centric tools and scalable frameworks that elevate software quality, efficiency, and productivity.
+I’m Abhijith—an entrepreneurial software engineer driven by a passion for solving real-world problems and crafting meaningful solutions. I thrive on building innovative, user-centric products and scalable frameworks that enhance software quality, boost efficiency, and deliver lasting impact. My journey is fueled by curiosity, creativity, and a relentless drive to transform ideas into solutions that empower people and shape the future of technology.
 
 ---
 
