@@ -1,53 +1,45 @@
-# 👋 Hi, I'm Abhijith P Subash  
+#  Abhijith P Subash
 
-🚀 Software Engineer | Tech Entrepreneur in the Making | Builder of Ideas into Scalable Products  
+**Software Engineer • Tech Innovator • Entrepreneur**
 
-I’m a passionate engineer and technology enthusiast with a vision to build impactful, product-based companies. With a strong foundation in **software engineering, system design, and product development**, I combine technical expertise with entrepreneurial drive to create solutions that push boundaries and deliver real-world value.  
-
-💡 Currently, I’m focusing on building **cross-platform developer tools**, **high-performance apps**, and exploring opportunities to scale them into global products.  
+I’m Abhijith—a seasoned software engineer blending innovation with strategic thinking. My passion lies in crafting developer-centric tools and scalable frameworks that elevate software quality, efficiency, and productivity.
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijith-p-subash-the-engineer)  
-[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://twitter.com/sixbee_shades)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://sixbeeshades.github.io)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@pogah2587)  
+##  Featured Projects & Open Source
+
+- **FLAME-CORE** *(2024)*  
+  A modular npm package that streamlines Firebase operations—auth, database, storage—minimizing boilerplate and making backend tasks more efficient and developer-friendly. :contentReference[oaicite:0]{index=0}
+
+- **NOEX-CLI** *(command-line tool)*  
+  Automates the creation and management of NOEX applications by generating production-ready APIs, templates, and integrations—enhancing development speed and reducing manual effort by roughly 50%. :contentReference[oaicite:1]{index=1}
+
+- **NOEX-FRAMEWORK** *(MVC framework)*  
+  A robust foundation built on Node.js and Express, offering multi-database support, modular integrations, and enterprise-level features—designed for performance, security, and extensibility. Supported by NOEX-CLI for streamlined productivity. :contentReference[oaicite:2]{index=2}
+
+Explore these and other projects on my GitHub, including **nox_framework_v2**, **flame-core**, and more. :contentReference[oaicite:3]{index=3}
 
 ---
 
-## 🛠️ Tech Expertise  
+##  Philosophy & Vision
 
-- **Languages & Core**: C, C++, Java, Python, JavaScript, TypeScript, Rust (learning)  
-- **Web & App Development**: React, Next.js, Angular, NestJS, Node.js, Express.js, FastAPI, Django, Flask, Electron, Tauri  
-- **Databases & Storage**: PostgreSQL, MySQL, MongoDB, Redis, Supabase, Cassandra  
-- **Cloud & Deployment**: AWS, Google Cloud, Firebase, Vercel, Netlify, Heroku, Nginx  
-- **DevOps & Tools**: GitHub Actions, Jenkins, Docker, Postman, Swagger, Jira  
-- **UI/UX & Design**: TailwindCSS, MUI, Chakra UI, Figma, Adobe Creative Suite  
-- **Other Interests**: Hardware prototyping, Raspberry Pi, Automation Systems  
+With a foundation in agile software development and a future-first mindset, I focus on:
 
----
+- Turning technical vision into user-centric experiences  
+- Bridging engineering excellence with product leadership  
+- Mentoring and empowering developer communities  
+- Deepening domain knowledge in AI, WebAssembly, Rust, and developer tooling :contentReference[oaicite:4]{index=4}
 
-## 📊 GitHub Insights  
-
-![](https://github-readme-stats.vercel.app/api?username=sixbeeshades&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=sixbeeshades&theme=vue-dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sixbeeshades&theme=vue-dark&hide_border=false&layout=compact)  
+Currently, I contribute to enterprise-grade systems at IBM while nurturing my open-source initiatives to expand the ecosystem.
 
 ---
 
-## 🏆 Achievements  
+##  Connect & Engage
 
-- 🎯 Building **NOEX Framework & CLI** – tools to simplify and supercharge developer productivity.  
-- 🏅 Active participant in hackathons & innovation challenges (IBM watsonx Challenge, etc.).  
-- 🌍 Passionate about **scaling technology into global products** and creating future-focused solutions.  
-
----
-
-## ✨ Beyond Code  
-
-⚡ Fun fact: When I’m not coding or building products, you’ll find me immersed in **gaming**, drawing creative inspiration from everything—from retro classics to modern multiplayer worlds.  
+- **Website / Portfolio**: [abhijithpsubash.com](https://abhijithpsubash.com) :contentReference[oaicite:5]{index=5}  
+- **GitHub Profile**: [abhijith-p-subash](https://github.com/abhijith-p-subash) – featuring 43 repositories and numerous open-source contributions :contentReference[oaicite:6]{index=6}
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sixbeeshades&icon=0&color=0)](https://visitcount.itsvg.in)  
+Elevated, purposeful, and polished—tailored for a profile that speaks to both the engineer and the entrepreneur. Let me know if you'd like to adjust tone, emphasize leadership, or spotlight community engagement next!
+::contentReference[oaicite:7]{index=7}
