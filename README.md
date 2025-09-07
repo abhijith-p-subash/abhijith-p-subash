@@ -9,15 +9,15 @@ I’m Abhijith—a seasoned software engineer blending innovation with strategic
 ##  Featured Projects & Open Source
 
 - **FLAME-CORE** *(2024)*  
-  A modular npm package that streamlines Firebase operations—auth, database, storage—minimizing boilerplate and making backend tasks more efficient and developer-friendly. :contentReference[oaicite:0]{index=0}
+  A modular npm package that streamlines Firebase operations—auth, database, storage—minimizing boilerplate and making backend tasks more efficient and developer-friendly.  
+  🔗 [npmjs.com/package/flame-core](https://www.npmjs.com/package/flame-core)
 
 - **NOEX-CLI** *(command-line tool)*  
-  Automates the creation and management of NOEX applications by generating production-ready APIs, templates, and integrations—enhancing development speed and reducing manual effort by roughly 50%. :contentReference[oaicite:1]{index=1}
+  Automates the creation and management of NOEX applications by generating production-ready APIs, templates, and integrations—enhancing development speed and reducing manual effort by roughly 50%.  
+  🔗 [npmjs.com/package/noex-cli](https://www.npmjs.com/package/noex-cli)
 
 - **NOEX-FRAMEWORK** *(MVC framework)*  
-  A robust foundation built on Node.js and Express, offering multi-database support, modular integrations, and enterprise-level features—designed for performance, security, and extensibility. Supported by NOEX-CLI for streamlined productivity. :contentReference[oaicite:2]{index=2}
-
-Explore these and other projects on my GitHub, including **nox_framework_v2**, **flame-core**, and more. :contentReference[oaicite:3]{index=3}
+  A robust foundation built on Node.js and Express, offering multi-database support, modular integrations, and enterprise-level features—designed for performance, security, and extensibility. Supported by NOEX-CLI for streamlined productivity.
 
 ---
 
@@ -28,7 +28,7 @@ With a foundation in agile software development and a future-first mindset, I fo
 - Turning technical vision into user-centric experiences  
 - Bridging engineering excellence with product leadership  
 - Mentoring and empowering developer communities  
-- Deepening domain knowledge in AI, WebAssembly, Rust, and developer tooling :contentReference[oaicite:4]{index=4}
+- Deepening domain knowledge in AI, WebAssembly, Rust, and developer tooling  
 
 Currently, I contribute to enterprise-grade systems at IBM while nurturing my open-source initiatives to expand the ecosystem.
 
@@ -36,10 +36,9 @@ Currently, I contribute to enterprise-grade systems at IBM while nurturing my op
 
 ##  Connect & Engage
 
-- **Website / Portfolio**: [abhijithpsubash.com](https://abhijithpsubash.com) :contentReference[oaicite:5]{index=5}  
-- **GitHub Profile**: [abhijith-p-subash](https://github.com/abhijith-p-subash) – featuring 43 repositories and numerous open-source contributions :contentReference[oaicite:6]{index=6}
+- **Website / Portfolio**: [abhijithpsubash.com](https://abhijithpsubash.com)
+- **Email**: [abhijith.p.subash@gmail.com](mailto:abhijith.p.subash@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/abhijith-p-subash-the-engineer](https://www.linkedin.com/in/abhijith-p-subash-the-engineer/)
+- **X (Twitter)**: [x.com/abhijith_p_su](https://x.com/abhijith_p_su)  
 
 ---
-
-Elevated, purposeful, and polished—tailored for a profile that speaks to both the engineer and the entrepreneur. Let me know if you'd like to adjust tone, emphasize leadership, or spotlight community engagement next!
-::contentReference[oaicite:7]{index=7}
